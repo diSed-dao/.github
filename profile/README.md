@@ -1,4 +1,4 @@
-# Dised - Your One-Stop Solution for All Your AI Needs
+# diSed - Your One-Stop Solution for All Your AI Needs
 
 ![Dised Logo](https://github.com/diSed-dao/.github/assets/46371923/7af19594-2006-4374-bf1f-b70f4f1ed155)
 
