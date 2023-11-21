@@ -4,6 +4,8 @@
 
 Dised is a revolutionary web application that aims to simplify and streamline your access to a wide range of AI tools and services. In a world where artificial intelligence is increasingly integrated into various domains, Dised offers a centralized hub where you can effortlessly explore and utilize AI capabilities without the hassle of navigating multiple websites and managing multiple accounts.
 
+The Algorand-powered AI marketplace with tokenized APIs represents a significant step towards democratizing access to AI services, fostering innovation, and incentivizing AI project creators. By leveraging blockchain technology, we aim to create a transparent, efficient, and decentralized ecosystem that benefits developers, organizations, and the AI community at large.
+
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Solution Overview](#solution-overview)
@@ -95,7 +97,7 @@ Dised is open-source and licensed under the [MIT License](LICENSE). Feel free to
 
 ---
 
-Dised is your gateway to the world of AI. We hope this project enhances your AI experience and simplifies your journey into the realm of artificial intelligence. If you have any questions, suggestions, or feedback, please don't hesitate to get in touch with us.
+Dised is your gateway to the world of AI. We hope this project enhances your AI experience and simplifies your journey into the realm of artificial intelligence. If you have any questions, suggestions, or feedback, please don't hesitate to get in touch with us. For inquiries and partnership opportunities, please contact us at [support@diSed.in].
 
 Happy AI exploring! 🚀
 
