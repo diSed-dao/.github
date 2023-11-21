@@ -1,4 +1,4 @@
-# diSed - Your One-Stop Solution for All Your AI Needs
+# diSed - Your One-Stop Search Engine for All Your AI Needs
 
 ![Dised Logo](https://github.com/diSed-dao/.github/assets/46371923/7af19594-2006-4374-bf1f-b70f4f1ed155)
 
@@ -16,7 +16,12 @@ Dised is a revolutionary web application that aims to simplify and streamline yo
 
 ## Problem Statement
 
-The widespread adoption of artificial intelligence (AI) across diverse domains has created a significant challenge for users. They often find themselves in a situation where they need to access different AI tools for tasks like image generation, coding, and creating presentations. Navigating the internet to locate specific AI tools on various websites is a time-consuming and frustrating process. Creating individual accounts on each of these websites further complicates the user experience, requiring users to manage multiple login credentials and potentially expose personal information on various platforms.
+The diSed platform serves as an intersection of two transformative technologies: artificial intelligence and blockchain. By leveraging the Algorand blockchain, diSed introduces a novel way to tokenize AI project APIs, making them easily tradable and accessible. This innovative approach eliminates traditional barriers that hinder the utilization of AI services, unlocking a wealth of possibilities for developers and organizations seeking to incorporate AI into their projects.
+
+One of the key advantages of diSed's AI marketplace is its commitment to transparency. The blockchain infrastructure ensures an immutable ledger of all transactions, making it possible to trace every step of the AI service acquisition process. This enhanced transparency not only builds trust but also enables stakeholders to evaluate the quality and effectiveness of AI services more effectively.
+Furthermore, diSed's platform presents a dynamic ecosystem that rewards AI project user for their contributions. Through tokenization, user receive a fair and tangible share of the value they bring to the marketplace. This incentivizes innovation and encourages a flourishing AI community.
+
+In summary, diSed is at the forefront of a technological renaissance, introducing an AI marketplace powered by the Algorand blockchain. This innovative platform transcends conventional limitations, granting developers and organizations unprecedented access to AI services. It fosters transparency and fairness while providing creators with the recognition and rewards they deserve. The future of AI integration has arrived, and it is diSed's transformative marketplace leading the way.
 
 ## Solution Overview
 
@@ -28,6 +33,7 @@ Dised provides a comprehensive solution to these challenges. It offers a user-fr
 - **Unified Account Management**: Users can register and manage their accounts in one central location, eliminating the need to create multiple accounts on different websites.
 - **High-Quality AI Models**: Dised leverages APIs from established market leaders in the AI tool sector, ensuring access to top-notch AI capabilities.
 - **Collaborative Approach**: By aggregating existing AI models and services, Dised fosters collaboration within the AI market, enhancing accessibility for users.
+- **User Reward System**: A dynamic ecosystem that rewards AI project user for their contributions. Through tokenization, user receive a fair and tangible share of the value they bring to the marketplace.
 
 ### Technologies Used
 
