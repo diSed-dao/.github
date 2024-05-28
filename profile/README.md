@@ -1,7 +1,5 @@
 # diSed - Your One-Stop Platform for All Your AI Needs
 
-![Dised Logo](https://github.com/diSed-dao/.github/assets/46371923/7af19594-2006-4374-bf1f-b70f4f1ed155)
-
 Dised is a revolutionary web application that aims to simplify and streamline your access to a wide range of AI tools and services. In a world where artificial intelligence is increasingly integrated into various domains, Dised offers a centralized hub where you can effortlessly explore and utilize AI capabilities without the hassle of navigating multiple websites and managing multiple accounts.
 
 The Algorand-powered AI marketplace with tokenized APIs represents a significant step towards democratizing access to AI services, fostering innovation, and incentivizing AI project creators. By leveraging blockchain technology, we aim to create a transparent, efficient, and decentralized ecosystem that benefits developers, organizations, and the AI community at large.
